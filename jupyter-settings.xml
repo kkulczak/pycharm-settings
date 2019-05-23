@@ -5,14 +5,13 @@
         <entry key="$USER_HOME$/Documents/evolutional-algorithms/.idea/evolutional-algorithms.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="managed" value="true" />
+              <option name="readOnly" value="true" />
+              <option name="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
+              <option name="urlString" value="http://localhost:8304" />
             </JupyterConnectionParameters>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="JupyterSettings">
-    <option name="autoscrollFromSource" value="false" />
   </component>
 </application>
