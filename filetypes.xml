@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="run_pyinstaller.sh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
