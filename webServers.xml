@@ -11,6 +11,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b1d233c8-dcb5-4269-86e6-b41db47ed97a" name="kkulczak@cuda03:22" url="http:///">
+        <fileTransfer host="cuda03" port="22" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
