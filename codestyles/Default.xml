@@ -4,7 +4,7 @@
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
-    <option name="DICT_ALIGNMENT" value="2" />
+    <option name="DICT_ALIGNMENT" value="1" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
