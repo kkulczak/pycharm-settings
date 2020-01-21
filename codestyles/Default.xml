@@ -3,10 +3,13 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
+    <option name="ALIGN_COLLECTIONS_AND_COMPREHENSIONS" value="false" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_ALIGNMENT" value="1" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    <option name="USE_CONTINUATION_INDENT_FOR_COLLECTION_AND_COMPREHENSIONS" value="true" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
@@ -18,6 +21,7 @@
   </Python>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="80" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
