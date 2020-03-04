@@ -10,10 +10,20 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/neural_nets_course/.idea/neural_nets_course.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="JupyterSettings">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="autoscrollToSource" value="false" />
     <option name="showSourcesInPreview" value="false" />
   </component>
 </application>
