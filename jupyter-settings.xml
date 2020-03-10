@@ -2,6 +2,14 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
+        <entry key="$USER_HOME$/Catalysts/itsv/adpbench/.idea/adpbench.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="2c7794ecd1f6f5cae26a1a08075573d2ad66e37b1c373670" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/evolutional-algorithms/.idea/evolutional-algorithms.iml">
           <value>
             <JupyterConnectionParameters>
