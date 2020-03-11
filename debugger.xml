@@ -77,7 +77,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <show-values-inline>false</show-values-inline>
+    </data-views>
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
@@ -85,6 +87,11 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="valuesPolicy" value="ON_DEMAND" />
         </configuration>
       </debugger>
     </debuggers>
