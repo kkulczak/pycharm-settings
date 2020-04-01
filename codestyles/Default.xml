@@ -9,7 +9,6 @@
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
     <option name="USE_CONTINUATION_INDENT_FOR_COLLECTION_AND_COMPREHENSIONS" value="true" />
-    <option name="OPTIMIZE_IMPORTS_SORT_IMPORTS" value="false" />
     <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="FROM_IMPORT_WRAPPING" value="2" />
