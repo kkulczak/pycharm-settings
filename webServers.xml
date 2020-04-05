@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="23d323e9-554a-49cc-ba10-b24b359936e4" name="Copy of project-level server 'deep_learnig_1'" url="http://dl1.local">
+        <fileTransfer host="dl1.local" port="22" rootFolder="/home/kku" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
