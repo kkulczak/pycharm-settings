@@ -6,7 +6,8 @@
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="8dc132b7-9621-4c61-8f39-8d3a51eccac1" port="22" customName="kku@dl1.local:22 (1)" nameFormat="CUSTOM" username="kku" />
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="c0b53543-c19e-4610-8644-9065bf44a42e" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="501bba62-66b0-4abd-9ac4-1ed25c85fb4a" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
-      <sshConfig authType="OPEN_SSH" host="dl1.local" id="fcf929ef-c07b-401d-9aec-37927309e33a" port="22" customName="kku@dl1.local:22 (1)" nameFormat="CUSTOM" username="kku" />
+      <sshConfig authType="OPEN_SSH" host="dl1.local" id="b6895445-6264-4630-87fa-1e8f26fe6157" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="dl1.local" id="32b17503-c19e-452c-8290-a6c352141656" port="22" customName="kku@dl1.local:22 (1)" nameFormat="CUSTOM" username="kku" />
     </configs>
   </component>
 </application>
