@@ -75,16 +75,6 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views>
@@ -103,11 +93,6 @@
       <debugger id="python">
         <configuration>
           <option name="valuesPolicy" value="ON_DEMAND" />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
