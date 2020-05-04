@@ -11,7 +11,9 @@
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="3a25716c-54cd-485c-938d-50207f3e68bd" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="e61f81c5-5d77-4da3-96d0-a18bbfc79a27" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
       <sshConfig authType="OPEN_SSH" host="dl1.local" id="803d5fd5-6606-44e9-a8d5-e037ff5ab36b" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
-      <sshConfig authType="OPEN_SSH" host="dl1.local" id="e7514ecf-bb56-4900-87f8-6a9eec2c0796" port="22" customName="kku@dl1.local:22 (1)" nameFormat="CUSTOM" username="kku" />
+      <sshConfig authType="OPEN_SSH" host="dl1.local" id="b569502e-aac4-4cbd-b0b6-c7634443af80" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="dl1.local" id="9c0fbd43-a5aa-462f-96e6-423e07a9e569" port="22" customName="Copy of project-level server 'deep_learnig_1'" nameFormat="CUSTOM" />
+      <sshConfig authType="OPEN_SSH" host="dl1.local" id="eebc0a75-46e8-47db-b02a-03e4b149f706" port="22" customName="kku@dl1.local:22 (1)" nameFormat="CUSTOM" username="kku" />
     </configs>
   </component>
 </application>
