@@ -7,6 +7,10 @@
           <option name="urlString" value="http://127.0.0.1:8888" />
         </JupyterConnectionParameters>
         <JupyterConnectionParameters>
+          <option name="token" value="" />
+          <option name="urlString" value="http://dl1.local:8888" />
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
           <option name="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
           <option name="urlString" value="http://localhost:8304" />
         </JupyterConnectionParameters>
@@ -26,6 +30,14 @@
             <JupyterConnectionParameters>
               <option name="token" value="" />
               <option name="urlString" value="http://127.0.0.1:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/DistSup/.idea/DistSup.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="" />
+              <option name="urlString" value="http://dl1.local:8888" />
             </JupyterConnectionParameters>
           </value>
         </entry>
