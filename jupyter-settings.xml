@@ -3,8 +3,8 @@
     <option name="knownRemoteServers">
       <list>
         <JupyterConnectionParameters>
-          <option name="token" value="" />
-          <option name="urlString" value="http://127.0.0.1:8888" />
+          <option name="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
+          <option name="urlString" value="http://127.0.0.1:8888/" />
         </JupyterConnectionParameters>
         <JupyterConnectionParameters>
           <option name="token" value="37086d6756a3c22095094e379072f414bcb402b22ac8378f" />
@@ -36,8 +36,7 @@
         <entry key="$USER_HOME$/Documents/DistSup/.idea/DistSup.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="37086d6756a3c22095094e379072f414bcb402b22ac8378f" />
-              <option name="urlString" value="http://dl1.local:8888" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
