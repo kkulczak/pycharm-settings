@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../mtaas-ui/src/app/common-components/result-displayer [mtaas-platform.mtaas-ui]'" />
-    <option name="defaultScopeName" value="Directory '.../mtaas-ui/src/app/common-components/result-displayer [mtaas-platform.mtaas-ui]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../mtaas-ui/src/app/common-components/result-displayer [mtaas-platform.mtaas-ui]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
