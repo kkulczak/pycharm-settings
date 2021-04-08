@@ -19,4 +19,17 @@
       </list>
     </option>
   </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:test-lambda">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="testprintbucket" />
+            </UpdateConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
