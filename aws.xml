@@ -30,6 +30,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:pytorchConsumer2">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:test-lambda">
           <value>
             <UpdateConfig>
