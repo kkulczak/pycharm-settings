@@ -30,6 +30,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-segmentator">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/image-segmentator/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-segmentator" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:pytorch-consumer">
           <value>
             <UpdateConfig>
