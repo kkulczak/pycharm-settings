@@ -22,6 +22,14 @@
   <component name="updateLambdaState">
     <option name="configs">
       <map>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:abcv">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/image-embedder/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-embedder">
           <value>
             <UpdateConfig>
