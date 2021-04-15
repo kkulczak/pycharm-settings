@@ -30,6 +30,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:articles-search">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/antyplagiator_pipeline/antyplagiator_pipeline/articles/articles-search/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/articles-search" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-embedder">
           <value>
             <UpdateConfig>
