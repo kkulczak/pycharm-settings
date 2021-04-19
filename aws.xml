@@ -38,6 +38,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:articles-search-zip">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-embedder">
           <value>
             <UpdateConfig>
