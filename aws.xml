@@ -42,6 +42,7 @@
           <value>
             <UpdateConfig>
               <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
               <option name="useContainer" value="true" />
             </UpdateConfig>
           </value>
