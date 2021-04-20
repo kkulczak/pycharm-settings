@@ -56,6 +56,15 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:hello_app">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-embedder">
           <value>
             <UpdateConfig>
