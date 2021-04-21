@@ -98,6 +98,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:images-similarity-parser">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-central-1:455902462046:function:lambda-showcase">
           <value>
             <UpdateConfig>
