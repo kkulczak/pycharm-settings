@@ -231,6 +231,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-downloader">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/video-plagiarism/video-downloader/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
