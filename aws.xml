@@ -214,6 +214,15 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-plagiarism-detector">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-segmentator">
           <value>
             <UpdateConfig>
