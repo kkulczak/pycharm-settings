@@ -219,7 +219,7 @@
           <value>
             <UpdateConfig>
               <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/image-plagiarism/image-embedder/Dockerfile" />
-              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-embedder-013525165545" />
             </UpdateConfig>
           </value>
         </entry>
