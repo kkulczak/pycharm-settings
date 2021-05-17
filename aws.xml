@@ -276,6 +276,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:scrape-images">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-west-1:013525165545:function:shingles-lambda">
           <value>
             <UpdateConfig>
