@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping pattern="data" type="AUTO_DETECTED" />
       <mapping pattern="logs_images_dump_18-01-2021" type="AUTO_DETECTED" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="run_pyinstaller.sh" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
