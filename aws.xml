@@ -308,6 +308,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-es-saerch">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-frames-embedder">
           <value>
             <UpdateConfig>
