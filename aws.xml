@@ -291,6 +291,14 @@
             </UpdateConfig>
           </value>
         </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:scrape-videos">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/crawler/scrape-videos/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-video-scraper-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
         <entry key="arn:aws:lambda:eu-west-1:013525165545:function:shingles-lambda">
           <value>
             <UpdateConfig>
