@@ -32,6 +32,13 @@
             </map>
           </authParams2>
         </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8888/tree" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
       </list>
     </option>
     <option name="moduleParameters">
@@ -89,6 +96,14 @@
                   <entry key="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
                 </map>
               </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xBerry/protel/.idea/protel.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/usr/bin/python3.8" />
             </JupyterConnectionParameters>
           </value>
         </entry>
