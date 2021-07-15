@@ -16,6 +16,12 @@
           <option name="id" value="samCli" />
           <option name="lastKnownFileTime" value="1617890607782" />
         </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/aws" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1617804550800" />
+        </ExecutableState>
       </list>
     </option>
   </component>
