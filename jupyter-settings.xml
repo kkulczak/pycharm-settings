@@ -4,11 +4,11 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
-          <option name="urlString" value="http://127.0.0.1:8888/" />
+          <option name="token" value="" />
+          <option name="urlString" value="http://127.0.0.1:8888" />
           <authParams2>
             <map>
-              <entry key="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
+              <entry key="token" value="" />
             </map>
           </authParams2>
         </JupyterConnectionParameters>
@@ -30,6 +30,13 @@
             <map>
               <entry key="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
             </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8888/tree" />
+          <authParams2>
+            <map />
           </authParams2>
         </JupyterConnectionParameters>
       </list>
@@ -92,11 +99,18 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/xBerry/protel/.idea/protel.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/usr/bin/python3.8" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="JupyterSettings">
-    <option name="autoscrollFromSource" value="false" />
     <option name="showSourcesInPreview" value="false" />
   </component>
 </application>
