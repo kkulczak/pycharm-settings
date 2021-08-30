@@ -1,0 +1,116 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="" />
+          <option name="urlString" value="http://127.0.0.1:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="37086d6756a3c22095094e379072f414bcb402b22ac8378f" />
+          <option name="urlString" value="http://dl1.local:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="37086d6756a3c22095094e379072f414bcb402b22ac8378f" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
+          <option name="urlString" value="http://localhost:8304" />
+          <authParams2>
+            <map>
+              <entry key="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8888/tree" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/Catalysts/itsv/adpbench/.idea/adpbench.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Catalysts/mtaas/face_mask_detection/.idea/face_mask_detection.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="" />
+              <option name="urlString" value="http://127.0.0.1:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/DistSup/.idea/DistSup.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/evolutional-algorithms/.idea/evolutional-algorithms.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
+              <option name="urlString" value="http://localhost:8304" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="1e8d09a32a8a300d06d437cf9ff9aae9a99872f8087fefad" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/neural_nets_course/.idea/neural_nets_course.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="f6f800c00e89fd11a63031cf4a77ff8f525dae36ef5ba017" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/xBerry/protel/.idea/protel.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/usr/bin/python3.8" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="JupyterSettings">
+    <option name="showSourcesInPreview" value="false" />
+  </component>
+</application>

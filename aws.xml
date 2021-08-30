@@ -1,0 +1,346 @@
+<application>
+  <component name="aws">
+    <option name="profilesNotification" value="Never" />
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+    <option name="useDefaultCredentialRegion" value="Prompt" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1617890607782" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/aws" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1617804550800" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:abcv">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/image-embedder/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:articles-es">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:articles-search">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/antyplagiator_pipeline/antyplagiator_pipeline/articles/articles-search/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/articles-search" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:articles-search-zip">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:hello_app">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-downloader">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-embedder">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/antyplagiator_pipeline/antyplagiator_pipeline/images/image-embedding-lambda/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-plagiarism-detection">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:image-segmentator">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/image-segmentator/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-segmentator" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:images-es-search">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:images-similarity-parser">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:lambda-showcase">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:my_app">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="lambdas-antyplagiator" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:ping">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/ping/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/ping" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:pong">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/pong/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/pong" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:pytorch-consumer">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:pytorchConsumer2">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/lambdas-tests/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/image-embedder" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:test-lambda">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="testprintbucket" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-central-1:455902462046:function:video-downloader">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/antyplagiator_pipeline/antyplagiator_pipeline/videos/video-downloader/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-central-1:455902462046:repository/video-downloader" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:articles-es-search">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:asfsdgdfg">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:crawler-article">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:crawler-link">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-downloader">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-embedder">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/image-plagiarism/image-embedder/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-embedder-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-es-search">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-plagiarism-detector">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:image-segmentator">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/image-plagiarism/image-segmentator/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:minimal-es">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:plagiarism-adder">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:reset-pipeline">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:scrape-images">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:scrape-videos">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/crawler/scrape-videos/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-video-scraper-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:shingles-lambda">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-segmentator-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-downloader">
+          <value>
+            <UpdateConfig>
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/video-plagiarism/video-downloader/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-video-downloader-013525165545" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-es-saerch">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+        <entry key="arn:aws:lambda:eu-west-1:013525165545:function:video-frames-embedder">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="dev-antyplagiator-lambdas-013525165545" />
+              <option name="dockerfile" value="$USER_HOME$/xBerry/Antyplagiator/lambdas/image-plagiarism/image-embedder/Dockerfile" />
+              <option name="ecrRepo" value="arn:aws:ecr:eu-west-1:013525165545:repository/dev-antyplagiator-image-embedder-013525165545" />
+              <option name="useContainer" value="true" />
+            </UpdateConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
