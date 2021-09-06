@@ -11,6 +11,7 @@
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
       <mapping ext="templete" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping pattern="a" type="AUTO_DETECTED" />
