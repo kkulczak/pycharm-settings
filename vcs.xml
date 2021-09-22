@@ -42,9 +42,13 @@
           <option name="url" value="git@gitlab.com:xberrydev/antyplagiator/antyplagiator-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.int.peakdata.ch:peakdata/data/dataprocessors/world/dataprocessor_visibility_updater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/xBerry/Antyplagiator" />
+    <option name="cloneParentDir" value="$USER_HOME$/PeakData/data/dataprocessors/world" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
