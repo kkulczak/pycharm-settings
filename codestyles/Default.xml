@@ -17,8 +17,6 @@
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
   <codeStyleSettings language="Python">
-    <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
