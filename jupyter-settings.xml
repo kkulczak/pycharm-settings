@@ -32,13 +32,6 @@
             </map>
           </authParams2>
         </JupyterConnectionParameters>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="urlString" value="http://localhost:8888/tree" />
-          <authParams2>
-            <map />
-          </authParams2>
-        </JupyterConnectionParameters>
       </list>
     </option>
     <option name="moduleParameters">
@@ -109,8 +102,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="JupyterSettings">
-    <option name="showSourcesInPreview" value="false" />
   </component>
 </application>
