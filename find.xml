@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="BUILD" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -16,5 +17,6 @@
     <mask>*ci*</mask>
     <mask>*.ip*</mask>
     <mask>*.py</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
