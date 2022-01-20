@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'dataprocessor_youtube_keywords_tagger'" />
-    <option name="defaultScopeName" value="Project 'dataprocessor_youtube_keywords_tagger'" />
-    <option name="SEARCH_SCOPE" value="Project 'dataprocessor_youtube_keywords_tagger'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
