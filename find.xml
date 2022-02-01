@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'dataprocessor_crm_integration'" />
+    <option name="defaultScopeName" value="Project 'dataprocessor_crm_integration'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'dataprocessor_crm_integration'" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
