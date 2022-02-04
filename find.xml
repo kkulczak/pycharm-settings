@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -19,5 +20,6 @@
     <mask>Dockerfile</mask>
     <mask>main.py</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
