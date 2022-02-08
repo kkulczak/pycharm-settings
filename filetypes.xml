@@ -12,6 +12,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="data-00000-of-00001" type="PLAIN_TEXT" />
+      <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
