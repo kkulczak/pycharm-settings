@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
@@ -10,7 +12,6 @@
     <mask>train_*.yaml</mask>
     <mask>*.html</mask>
     <mask>*.txt</mask>
-    <mask>*.conf</mask>
     <mask>*ci*</mask>
     <mask>*.ip*</mask>
     <mask>BUILD</mask>
@@ -19,5 +20,6 @@
     <mask>*.yaml</mask>
     <mask>*.py</mask>
     <mask>*test*.py</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
